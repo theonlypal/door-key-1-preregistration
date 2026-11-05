@@ -2,6 +2,8 @@
 
 Rayan Pal
 
+Preregistration DOI: https://doi.org/10.5281/zenodo.23968364
+
 Preregistration, frozen runner and offline verifier for a 1,200-request test of
 whether an English prerequisite in a system prompt separates visible answer
 emission from normal-stop zero-byte completion in `gpt-5.4-2026-03-05` and
